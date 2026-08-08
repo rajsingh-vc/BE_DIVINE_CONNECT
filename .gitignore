@@ -1,0 +1,6 @@
+# Add-Content .gitignore "sansthan/backend/firebase-service-account.json"
+# Add-Content .gitignore "sansthan/backend/.env"
+# Add-Content .gitignore "sansthan/frontend/.env"
+# Add-Content .gitignore "**/__pycache__/"
+# Add-Content .gitignore "*.pyc"
+firebase-service-account.json
